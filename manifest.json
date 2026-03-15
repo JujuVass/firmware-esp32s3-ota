@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.5/update_1.0.5.tar",
+  "version": "1.0.6",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.6/update_1.0.6.tar",
   "size": 2210816,
-  "sha256": "18d207bcf8bcfe1b4061d23e9457056941efca534330e870ff96606dcf038250",
-  "changelog": "Release v1.0.5",
-  "date": "2026-03-15T14:24:34Z"
+  "sha256": "31a41da2b8e9e997625c67498a1b76497a5d2a8140cf375de7b250d997489295",
+  "changelog": "Release v1.0.6",
+  "date": "2026-03-15T14:32:00Z"
 }
