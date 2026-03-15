@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.8/update_1.0.8.tar",
+  "version": "1.0.9",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.9/update_1.0.9.tar",
   "size": 2212352,
-  "sha256": "27f12c4636b43f56e5946761dfd737e83900f0a37c9822160c0f0c8f1a483e8b",
-  "changelog": "Feature : history/stats",
-  "date": "2026-03-15T17:38:58Z"
+  "sha256": "820b27c65eefa07512f3487d863956cff8f2acfa4f047ebcdeca88353b4f113b",
+  "changelog": "ota fix rebooting",
+  "date": "2026-03-15T18:04:43Z"
 }
