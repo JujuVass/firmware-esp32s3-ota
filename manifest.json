@@ -1,7 +1,8 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.1/update_1.0.1.tar",
-  "size": 2206720,
-  "changelog": "Feature : auto-upload",
-  "date": "2026-03-15T12:33:39Z"
+  "version": "1.0.2",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.2/update_1.0.2.tar",
+  "size": 2209792,
+  "sha256": "80c7e33c0b6ef244b8633ee84133362747a86412cda20b32c8998d479f99ac5a",
+  "changelog": "Release v1.0.2",
+  "date": "2026-03-15T13:34:44Z"
 }
