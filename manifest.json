@@ -3,7 +3,7 @@
   "board": "xiao_s3plus",
   "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.44/update_1.1.44.tar",
   "size": 2345984,
-  "sha256": "097ce45c11abd8427fc6beb51228875625a72915131504b7bcf64b57657fdbdd",
+  "sha256": "5a7f2d88e977728b031549cb2b06c00eb63daaa25b2af97d98099a0734c00a4e",
   "changelog": "beta version",
-  "date": "2026-06-03T20:19:55Z"
+  "date": "2026-06-03T20:24:24Z"
 }
