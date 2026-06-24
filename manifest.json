@@ -1,9 +1,9 @@
 {
-  "version": "1.1.63",
+  "version": "1.1.64",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.63/update_1.1.63.tar",
-  "size": 2361344,
-  "sha256": "5ea03d0b4bc9873d0d95b9cd5c18f09e6e4a7a75819e634487b0e2c48d9a5505",
-  "changelog": "glm 5.2 major fix core issue",
-  "date": "2026-06-24T07:34:06Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.64/update_1.1.64.tar",
+  "size": 2363904,
+  "sha256": "5d9ca41cbb3d70a44c8035da4796d9738339f19a4c5093797c7927c161c4a478",
+  "changelog": "auto start position",
+  "date": "2026-06-24T19:50:17Z"
 }
