@@ -1,9 +1,9 @@
 {
-  "version": "1.1.68",
+  "version": "1.1.69",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.68/update_1.1.68.tar",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.69/update_1.1.69.tar",
   "size": 2367488,
-  "sha256": "80db7e5b37c03f4406ee1aed33d485d202d4b43f5bc57b8dc1e7aea4c46d909d",
-  "changelog": "ota/step optimization",
-  "date": "2026-06-25T12:38:45Z"
+  "sha256": "3ac243d362233586d85c43a268ee4b768d850a769a5448691232b32aa808f765",
+  "changelog": "fix Cannot send command: updateAutoAdjustOsc - WebSocket not connected",
+  "date": "2026-06-25T13:02:26Z"
 }
