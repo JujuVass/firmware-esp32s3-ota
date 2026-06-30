@@ -1,9 +1,9 @@
 {
-  "version": "1.1.84",
+  "version": "1.1.85",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.84/update_1.1.84.tar",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.85/update_1.1.85.tar",
   "size": 2373632,
-  "sha256": "ae105ece76584ed5d10d4e269c732643f7509026de084c91b1e63ea81d9c5145",
+  "sha256": "90e1a7aa31c658d7afa7c7453550791a214909026e653fab8d8298a0d5fa400a",
   "changelog": "css cleaning",
-  "date": "2026-06-30T17:07:46Z"
+  "date": "2026-06-30T17:57:41Z"
 }
