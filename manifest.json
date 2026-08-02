@@ -1,9 +1,9 @@
 {
-  "version": "1.1.137",
+  "version": "1.1.138",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.137/update_1.1.137.tar",
-  "size": 2386432,
-  "sha256": "c4c7853698abad66424c8f7f7ce83a6052e3cae29ac192e80630cfd4298ebf8e",
-  "changelog": "ws fix",
-  "date": "2026-07-10T21:34:00Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.138/update_1.1.138.tar",
+  "size": 2389504,
+  "sha256": "a7478ad6e9e0f8aa882d04500a88ad2c39c60d1c782f3595a20ece0440f4bab5",
+  "changelog": "Phase 1+2: IRAM/DRAM motor hot-path lockdown + Flash I/O guards \u2014 deterministic NEMA 34 stepping",
+  "date": "2026-08-02T21:44:19Z"
 }
