@@ -1,9 +1,9 @@
 {
-  "version": "1.1.142",
+  "version": "1.1.143",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.142/update_1.1.142.tar",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.143/update_1.1.143.tar",
   "size": 2344960,
-  "sha256": "096bbf65367b86d0500efe68da0648c4d169be14fb81329e314df2f9592cbfc9",
-  "changelog": "dram+hotpath fixe",
-  "date": "2026-08-04T08:16:50Z"
+  "sha256": "fa796237715e8ae5546c3bf4ad62bd5f33dde062992d62c86757497f3e0e096d",
+  "changelog": "stats hicup fix",
+  "date": "2026-08-04T14:19:48Z"
 }
