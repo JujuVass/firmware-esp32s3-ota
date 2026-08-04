@@ -1,9 +1,9 @@
 {
-  "version": "1.1.140",
+  "version": "1.1.141",
   "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.140/update_1.1.140.tar",
-  "size": 2390528,
-  "sha256": "96c00a534a4c9a37df8e973765cc0ea802fe41cafd87dfe40e9239ea4e96512c",
-  "changelog": "skdconfig for pioarduino",
-  "date": "2026-08-04T07:09:04Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.1.141/update_1.1.141.tar",
+  "size": 2341376,
+  "sha256": "41565e8a8fe3d5311dab55459d483099578e0d2857998cb48838d365f0ee780f",
+  "changelog": "pioarduino 55.03.311",
+  "date": "2026-08-04T07:26:09Z"
 }
