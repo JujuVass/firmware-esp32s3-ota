@@ -1,9 +1,9 @@
 {
-  "version": "1.3.7",
-  "board": "xiao_s3plus",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.3.7/update_1.3.7.tar",
-  "size": 2038784,
-  "sha256": "365ce08d371c92174ceaeae4917edc468ec93e4872071f870d01b68c0d3a8af4",
-  "changelog": "reduce ram",
-  "date": "2026-08-30T13:49:38Z"
+  "version": "1.3.8",
+  "board": "xiao_s3plus_light",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.3.8/update_1.3.8.tar",
+  "size": 2053120,
+  "sha256": "29abddf36ba57a686ac971a67a274b540afa755fb6fc2c340359193be53a9dbd",
+  "changelog": "clean env",
+  "date": "2026-09-11T08:57:04Z"
 }
