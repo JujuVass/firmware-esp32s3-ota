@@ -3,7 +3,7 @@
   "board": "xiao_s3plus_light",
   "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.3.16/update_1.3.16.tar",
   "size": 2100736,
-  "sha256": "a2118481fde8d063e86ac434f7450febbd6577248bb5dc8111fb403ac4fbcb6a",
+  "sha256": "088342cbc0d2d623c63d5a251c3518ee2c4810ea2b9d00b3dfe5a7cec0bd45cb",
   "changelog": "fix adc",
-  "date": "2026-09-15T18:08:36Z"
+  "date": "2026-09-15T18:09:13Z"
 }
