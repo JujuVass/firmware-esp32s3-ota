@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.1/update_1.0.1.tar",
-  "size": 2161152,
-  "sha256": "f9e1df4d8fa8efde109b80e23fda6ef463206c9801a9152b3821b21da16bbd7e",
-  "changelog": "fix seed/frq unlock",
-  "date": "2026-10-03T12:04:56Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.2/update_1.0.2.tar",
+  "size": 2164224,
+  "sha256": "7b37678abdc24fc5ca415be9b4a56747ad372366699c8983dc42ee0ffd970234",
+  "changelog": "harden travel and auto-adjust safety",
+  "date": "2026-10-03T14:31:18Z"
 }
