@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.2/update_1.0.2.tar",
-  "size": 2164224,
-  "sha256": "7b37678abdc24fc5ca415be9b4a56747ad372366699c8983dc42ee0ffd970234",
-  "changelog": "harden travel and auto-adjust safety",
-  "date": "2026-10-03T14:31:18Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.3/update_1.0.3.tar",
+  "size": 2192384,
+  "sha256": "6e4cd7d5f21beb0090768d78134e02e6a1705bbb0eb987bf6150ad40ec90313b",
+  "changelog": "game mode",
+  "date": "2026-10-04T14:49:18Z"
 }
