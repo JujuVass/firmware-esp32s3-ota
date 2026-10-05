@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.10/update_1.0.10.tar",
-  "size": 2198528,
-  "sha256": "f84b11fd5c5905fa9201e9ccefcd547855de715e681a99355ee451debcf61a81",
-  "changelog": "game mode",
-  "date": "2026-10-04T18:46:48Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.11/update_1.0.11.tar",
+  "size": 2229248,
+  "sha256": "404dd67605f8ec4690e035242e0e4b072fe972a37d089dafc3c136cbba22720a",
+  "changelog": "game mode+revue",
+  "date": "2026-10-05T19:29:48Z"
 }
