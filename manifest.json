@@ -1,9 +1,9 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.16/update_1.0.16.tar",
-  "size": 2233344,
-  "sha256": "f04e3936cf52908297bb591537788872397715a2e617e5c271f639b0db0eac71",
-  "changelog": "Improve game configuration and mDNS recovery",
-  "date": "2026-10-07T09:48:27Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.17/update_1.0.17.tar",
+  "size": 2242560,
+  "sha256": "3df70f5faef835ca26e95e0263ec134082658045845fb162175d1039532c78c0",
+  "changelog": "keyboard",
+  "date": "2026-10-10T06:43:41Z"
 }
