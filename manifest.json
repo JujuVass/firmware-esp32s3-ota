@@ -1,9 +1,9 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.24/update_1.0.24.tar",
-  "size": 2244096,
-  "sha256": "50db3f01951e402ef189c3a50a074734f4a6592ed0a767102d0fff8314297d49",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.25/update_1.0.25.tar",
+  "size": 2245632,
+  "sha256": "cfd4a2bf790e86c15df1be8eb3f5499c979189fbdb7722c348a3888db29fcfb4",
   "changelog": "Stabilize OTA UX and keyboard controls",
-  "date": "2026-10-11T12:47:01Z"
+  "date": "2026-10-11T19:22:07Z"
 }
