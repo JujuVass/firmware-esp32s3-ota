@@ -1,9 +1,9 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.28/update_1.0.28.tar",
-  "size": 2247168,
-  "sha256": "19b09045b2793f21a9d69a3e9f78c53c0d5f5454173ae9dd3d8c99a4c9d8a44a",
-  "changelog": "test",
-  "date": "2026-10-12T15:48:56Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.29/update_1.0.29.tar",
+  "size": 2251776,
+  "sha256": "a4f1163e19f08b800a8ffb3538cfb5b2c7fa7f8de90e0157525fa0edcd498a47",
+  "changelog": "Camera",
+  "date": "2026-10-12T20:38:44Z"
 }
