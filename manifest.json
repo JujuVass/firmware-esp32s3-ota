@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.30/update_1.0.30.tar",
-  "size": 2252800,
-  "sha256": "771d2c414580748a310dbd0a7b0da3bacbff4b36f12c87a8086a595cde403768",
-  "changelog": "Improve control UX and add local camera utility",
-  "date": "2026-10-12T21:27:40Z"
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.31/update_1.0.31.tar",
+  "size": 2254336,
+  "sha256": "d243ed7e1e89cac43cea88649a42c92ee788407f4601e459a5af8c9bfcdc250c",
+  "changelog": "1",
+  "date": "2026-10-13T07:30:55Z"
 }
