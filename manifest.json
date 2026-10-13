@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.34/update_1.0.34.tar",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.35/update_1.0.35.tar",
   "size": 2254848,
-  "sha256": "a46c9c110964ffb583687ff63dd4e74e1793ec0f9eddb70b041c8ef1afe83caf",
-  "changelog": "Improve control feedback and stats dashboard",
-  "date": "2026-10-13T13:13:29Z"
+  "sha256": "ce109d6997b218de34262dd09f785ceb95967d20e19ce7b14ca3373e4481bd5d",
+  "changelog": "1",
+  "date": "2026-10-13T15:43:17Z"
 }
