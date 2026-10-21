@@ -1,9 +1,9 @@
 {
-  "version": "1.0.40",
-  "board": "xiao_s3plus_light",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.40/update_1.0.40.tar",
-  "size": 2279424,
-  "sha256": "2e1bbc057ac596b31625f45e2f158723041284dfc35739ea104daafff0c9f6f8",
-  "changelog": "security 4",
-  "date": "2026-10-16T21:21:33Z"
+  "version": "1.0.41",
+  "board": "xiao_s3_light_v2",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.41/update_1.0.41.tar",
+  "size": 2280448,
+  "sha256": "7b2fa522a299df70e2a4f6484277f7a6bdc8be3bdb023d1c29ba0461f28a6064",
+  "changelog": "newcard",
+  "date": "2026-10-21T16:28:38Z"
 }
