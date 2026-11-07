@@ -2,8 +2,8 @@
   "version": "1.0.46",
   "board": "xiao_s3_light_v3",
   "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.46/update_1.0.46.tar",
-  "size": 2323456,
-  "sha256": "1b37c14dd2347f8e56ede62ac4a0f4d9d33b7c086e31791559954dcc73e48f02",
+  "size": 2322432,
+  "sha256": "a029d3c8ded0cf0bf279691d8cff9a6c1da639f3225b537008853c5352aa5924",
   "changelog": "new board + ntc + rs232",
-  "date": "2026-11-07T16:01:24Z"
+  "date": "2026-11-07T16:03:57Z"
 }
