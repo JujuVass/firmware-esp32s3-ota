@@ -1,9 +1,9 @@
 {
-  "version": "1.0.51",
+  "version": "1.0.52",
   "board": "xiao_s3_light_v3",
-  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.51/update_1.0.51.tar",
+  "url": "https://github.com/JujuVass/firmware-esp32s3-ota/releases/download/v1.0.52/update_1.0.52.tar",
   "size": 2323456,
-  "sha256": "b557f5963ec804c16ace32d18081d1502cbd52de50fb6225f8090fbe3a44608f",
-  "changelog": "new board + ntc + rs232",
-  "date": "2026-11-08T10:33:13Z"
+  "sha256": "ce0db91e1ad4b2c7bc87a9dba7927cd9a63a7919445022c45b643622f2cae57e",
+  "changelog": "max distance 300mm",
+  "date": "2026-11-10T16:45:15Z"
 }
